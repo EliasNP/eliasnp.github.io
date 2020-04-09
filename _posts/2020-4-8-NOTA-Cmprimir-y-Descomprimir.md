@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NOTAS: Comprimir y Descomprimir .gz, .tar.gz, y .zip por linea de comandos en Linux (Shell)
+title: Comprimir y Descomprimir .gz, .tar.gz, y .zip por linea de comandos en Linux (Shell)
 ---
 
 ### Archivos .tar.gz:
@@ -19,9 +19,8 @@ title: NOTAS: Comprimir y Descomprimir .gz, .tar.gz, y .zip por linea de comando
  + Comprimir: zip archivo.zip carpeta
  + Descomprimir: unzip archivo.zip
 
---- 
- : Como descomprimir archivos zip, rar, tar.gz, bz2, tar.bz2 por la consola de comandos. Funciona en cualquier versión de Linux.
- : ** NOTA: ** Recordar siempre tener los permisos adecuados.
+Como descomprimir archivos zip, rar, tar.gz, bz2, tar.bz2 por la consola de comandos. Funciona en cualquier versión de Linux.
+** NOTA: ** Recordar siempre tener los permisos adecuados.
 
 ## Para descomprimir ##
 
