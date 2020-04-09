@@ -3,12 +3,12 @@ layout: post
 title: Comprimir y Descomprimir .gz, .tar.gz, y .zip por linea de comandos en Linux (Shell)
 subtitle: "Subtitulo"
 tags: [NOTAS]
-date: 2017-4-08 23:45:13 -0400
-background: ''
+date: 2020-4-09 2:44:13 -0400
+background: '/image/avatar.png'
 ---
 
 ### Archivos .tar.gz:
- + Comprimir: tar -czvf empaquetado.tar.gz /carpeta/a/empaquetar/
+ + Comprimir:  ``tar -czvf empaquetado.tar.gz /carpeta/a/empaquetar/ ``
  + Descomprimir: tar -xzvf archivo.tar.gz
 
 ### Archivos .tar:
