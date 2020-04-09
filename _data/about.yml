@@ -1,55 +1,18 @@
 text: |
 
-  Write something about yourself here using markdown.
+#BASH where there is a #shell, there is a way#
+There are 10 types of people in this world, those who understand binary and those who don't - 🐧01
 
-  ## Lists
+### Más Información
 
-  Unordered
+Hola Soy Elías Nieva Prieto ([Eli@sNП](https://github.com/EliasNP) - 🐧 01)
 
-  + Create a list by starting a line with `+`, `-`, or `*`
-  + Sub-lists are made by indenting 2 spaces:
-    - Marker character change forces new list start:
-      * Ac tristique libero volutpat at
-      + Facilisis in pretium nisl aliquet
-      - Nulla volutpat aliquam velit
-  + Very easy!
+Paso de Repetirme, buscame en Mastodon,twitter,Telegram o incluso en GitHub.
+Tambien mandame un mail y pregunta.
 
-  Ordered
-
-  1. Lorem ipsum dolor sit amet
-  2. Consectetur adipiscing elit
-  3. Integer molestie lorem at massa
-
-
-  1. You can use sequential numbers...
-  1. ...or keep all the numbers as `1.`
-
-  Start numbering with offset:
-
-  57. foo
-  1. bar
-
-  ## Tables
-
-  | Option | Description |
-  | ------ | ----------- |
-  | data   | path to data files to supply the data that will be passed into templates. |
-  | engine | engine to be used for processing templates. Handlebars is the default. |
-  | ext    | extension to be used for dest files. |
-
-  Right aligned columns
-
-  | Option | Description |
-  | ------:| -----------:|
-  | data   | path to data files to supply the data that will be passed into templates. |
-  | engine | engine to be used for processing templates. Handlebars is the default. |
-  | ext    | extension to be used for dest files. |
-
-
-  ## Links
-
-  [link text](https://github.com)
-
-  [link with title](https://github.com/ "title text!")
-
-  Autoconverted link https://github.com (enable linkify to see)
+### Contactame
+ - [Telegram](http://t.me/EliasNieva)
+ - [Twitter](https://twitter.com/EliasNieva)
+ - [Mastodon](https://mastodon.social/@EliasNieva)
+ - [GitHub](https://github.com/EliasNP)
+ - [Mail](mailto:eliasnieva@keemail.me)
