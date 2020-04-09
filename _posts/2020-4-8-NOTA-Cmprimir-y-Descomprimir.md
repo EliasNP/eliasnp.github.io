@@ -8,7 +8,7 @@ background: '/image/avatar.png'
 ---
 
 ### Archivos .tar.gz:
- + Comprimir:  ``tar -czvf empaquetado.tar.gz /carpeta/a/empaquetar/ ``
+ + Comprimir:  "tar -czvf empaquetado.tar.gz /carpeta/a/empaquetar/"
  + Descomprimir: tar -xzvf archivo.tar.gz
 
 ### Archivos .tar:
