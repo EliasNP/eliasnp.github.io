@@ -28,7 +28,7 @@ gems:
   - jemoji
 
 # This is used by feed.xml. Uncomment if you want to use it.
-# description: "..."
+ description: "Feed del Blog"
 
 exclude:
   - "README.md"
