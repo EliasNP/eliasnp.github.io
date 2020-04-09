@@ -2,7 +2,7 @@
 items:
   - text: 'Blog'
     path: '/blog'
-  - text: 'Archive'
+  - text: 'Archivos'
     path: '/archive'
-  - text: 'About'
+  - text: 'Sobre Mí'
     path: '/about'
