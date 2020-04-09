@@ -15,8 +15,9 @@ email:
   text: "eliasnieva (at) keemail.me"
 
 # disqus comment
-disqus:
-    shortname: "eliasnp.github.io" #your disqus comment short name
+#disqus:
+#    shortname: "eliasnp.github.io" #your disqus comment short name
+disqus: eliasnp.github.io
 
 # google analytics
 google:
