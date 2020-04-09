@@ -9,10 +9,13 @@ background: ''
 
  ## 2º Post
 
- Esto muestra archivos y drectorios de la Carpeta `/home`
-	ls -Ra /home
+ Esto muestra archivos y drectorios de la Carpeta **/home**
+
+`ls -Ra /home`
+
+***
 
  Hasta aqui puedo leer.
 
- ---
+ ___
 
