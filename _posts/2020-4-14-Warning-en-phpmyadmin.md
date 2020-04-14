@@ -1,12 +1,14 @@
 ---
 layout: post
 title: PhpMyAdmin :Warning in ./libraries/sql.lib.php#601
-tags: [Shell,Comandos,PHP,Error,MySql]
+tags: [Shell,Comandos,PHP,Error,MySqlySql,Phpmyadmin,Linux,Codigo,Database,BBDD]
 date: 2020-4-14 12:30:00 -0400
 background: ''
 ---
 
-## Warning in ./libraries/sql.lib.php#601
+## Solucionar Error phpMyAdmin. count(): Parameter must be an array 
+
+	- [Origen](https://is.gd/THKfsc)
 
 La última vez que he instalado un servidor web en Ubuntu 18.04, me ha salido un mensaje de error en phpMyAdmin, concretamente el error: Warning in ./libraries/sql.lib.php#601
 count(): Parameter must be an array or an object that implements Countable.
@@ -30,3 +32,6 @@ Y lo vamos a reemplazar por:
 Ahora, recargamos web de phpMyAdmin y ya no debe mostrar más el error.
  ___
 
+ ## AUTORIA Y MERITOS
+ + Este articulo esta copiado integramente de [Carlos Hernandez](https://medium.com/@carlosferrerhernandez?source=follow_footer--------------------------follow_footer-)
+  * Aqui pueden leer el Documento [Original](https://is.gd/THKfsc)
