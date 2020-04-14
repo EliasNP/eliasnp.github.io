@@ -13,7 +13,7 @@ background: ''
 #### CREAR CONEXIÓN
 
 Para explicar el funcionamiento de las conexiones por **SSH** vamos a usar como ejemplo 
-un servidor local **Local@host** y un servidor remoto al que llamaremos **maquina_remota** y un usuario al que llamaremos **user**  para el conexion podriamos usar una IP o un dominio  para nuestra **maquina_remota** así que le vamos a asignar unos valores para el ejemplo.
+un servidor local ```` bash Local@host ```` y un servidor remoto al que llamaremos **maquina_remota** y un usuario al que llamaremos **user**  para el conexion podriamos usar una IP o un dominio  para nuestra **maquina_remota** así que le vamos a asignar unos valores para el ejemplo.
 
 Para la **IP** le pondremos `5.175.5.175` y para el **dominio**  le pondremos `hostremoto.com`, estos ejemplos entendiendo que estén fuera de nuetra red y este todo configurado para poder acceder externamente, aunque también podrian ser equipos de nuestra propia reda los que solo habria que indicarles los datos internos como ejemplo la ip interna podria ser `192.168.1.100`, el puerto *22* es el que se establece por **defecto** en la configuración pero a mí por seguridad me gusta cambiarlo os lo recomiendo, así que usaremos como **puerto** el `2222`
 
