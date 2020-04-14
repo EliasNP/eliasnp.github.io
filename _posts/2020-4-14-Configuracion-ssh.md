@@ -13,7 +13,7 @@ background: ''
 #### CREAR CONEXIÓN
 
 Para explicar el funcionamiento de las conexiones por **SSH** vamos a usar como ejemplo 
-un servidor local ` Local@host` y un servidor remoto al que llamaremos `maquina_remota`y un usuario al que llamaremos `user`  para el conexion podriamos usar una IP o un dominio  para nuestra `maquina_remota` así que le vamos a asignar unos valores para el ejemplo.
+un servidor local **Local@host** y un servidor remoto al que llamaremos **maquina_remota** y un usuario al que llamaremos **user**  para el conexion podriamos usar una IP o un dominio  para nuestra **maquina_remota** así que le vamos a asignar unos valores para el ejemplo.
 
 Para la **IP** le pondremos `5.175.5.175` y para el **dominio**  le pondremos `hostremoto.com`, estos ejemplos entendiendo que estén fuera de nuetra red y este todo configurado para poder acceder externamente, aunque también podrian ser equipos de nuestra propia reda los que solo habria que indicarles los datos internos como ejemplo la ip interna podria ser `192.168.1.100`, el puerto *22* es el que se establece por **defecto** en la configuración pero a mí por seguridad me gusta cambiarlo os lo recomiendo, así que usaremos como **puerto** el `2222`
 
@@ -21,8 +21,10 @@ Para la **IP** le pondremos `5.175.5.175` y para el **dominio**  le pondremos `h
 
 ------------
 
-		Local@host~$> ssh usuario@host -p puerto
-
+		
+```bash
+Local@host~$> ssh usuario@host -p puerto
+```
 +  **ssh**: es el comando.
 + **usuario**: es el Nombre del usuario remoto.
 + **@host**: es la dirección del servidor remoto donde nos vamos a conectar.
@@ -30,19 +32,27 @@ Para la **IP** le pondremos `5.175.5.175` y para el **dominio**  le pondremos `h
 + **puerto**:es el numero del puerto al que vamos a conectarnos.
 
 Despúes de esta explicación una situación real según nuestro ejemplo seria.
->Local@host:~$> ssh user@5.175.5.175 -p 2222
 
+```bash
+Local@host:~$> ssh user@5.175.5.175 -p 2222
+```
 *Respuesta del Servidor remoto pidiendo password.*
->user@5.175.5.175`s password:
+
+```bash
+user@5.175.5.175`s password:
+````
 
 *Si lo hemos introducido bien nos saldra el prompt del Servidor remoto*
->Last login: Fri Apr 10 12:16:02 2020 from localhost
+```bash
+Last login: Fri Apr 10 12:16:02 2020 from localhost
 user@maquina_remota:~$ >
-
+````
 
 ### ELIMINAR CONEXIÓN (''Key'') YA CREADA 
 
->Local@host:~$>ssh-keygen -R hostname			(EJ: ;$>ssh-keygen -R 192.168.1.200 )
+```bash
+Local@host:~$>ssh-keygen -R hostname			(EJ: ;$>ssh-keygen -R 192.168.1.200 )
+````
 
 ### CRAR CLAVE RSA PRIVADA DE SSH ##
 >Local@host~$>user@maquina_local$ ssh-keygen -b 4096
@@ -69,7 +79,7 @@ Por último copiamos la clave y borramos el archivo copiado al servidor:
 	
 >user@maquina_remota$ echo `cat ~/uploaded_key.pub` >> ~/.ssh/authorized_keys
 >user@maquina_remota$ rm /home/user/uploaded_key.pub
-
+----
 ___
 
 ### AUTORIA Y MERITOS
