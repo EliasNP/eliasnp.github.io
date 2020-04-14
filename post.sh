@@ -152,7 +152,7 @@ echo -e "____" >>$ARCHIVO
 echo -e "### AUTORIA Y MERITOS" >>$ARCHIVO
 echo -e "     " >>$ARCHIVO
 echo -e "Extraido de [-NOMBRE DEL BLOG O WEB-](https://)" >>$ARCHIVO
-echo -e "Autor del Texto Original [-NOMBRE DEL AUTOR ORIGINAL](https:/)" >>$ARCHIVO
+echo -e "Autor del Texto Original [@EliasNieva](https://mastodon.social/@eliasNieva)" >>$ARCHIVO
 
 
 _select_editor
