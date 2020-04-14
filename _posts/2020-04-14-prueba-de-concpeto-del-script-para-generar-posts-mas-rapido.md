@@ -1,6 +1,6 @@
 ---
 layout: post
-title: prueba-de-concpeto-del-script-para-generar-posts-mas-rapido
+title: prueba de concpeto del script para generar posts mas rapido
 tags: [prueba,script,post,blog,github,rapido]
 date: 2020-04-14 17:20 -0400
 background: ''
