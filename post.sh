@@ -59,15 +59,15 @@ echo -e "                     ___/ _|\___/ \__, |  \__,_|\___|  _____|_|_|\ \__,
 echo -e "                                  |___/                           \____/                  "
 echo -e "                                             Blog de Eli@sNП - 🐧01 "
 echo -e "			           BASH where there is a shell, there is a way"
-echo "__________________________________________________________________________________________________"
+echo "_________https://eliasnp.github.io_________________________________________________eliasnieva@keemail.me____________"
 
 _select_title(){
 
     # Guardamos el nombre introducido.
-    printf "Introduce Nombre: " ; read -r title
+    printf "Introduce Nombre: " ; read -r titulo
 
 	# 2020-4-9-nombre del post.md
-    title="$FECHA-${title}"
+    title="$FECHA-${titulo}"
 
     # Quitamos los espacios al nombre si los tiene y los convertimos en "-"
     title=${title// /-}
@@ -112,8 +112,8 @@ _select_title
 echo "_________________________________________________________________________________________"
 echo "$title"
 
-printf "Intruduce TAGS separadas por comas ej:Shell,ssh,consola,etc" ; read -r tags
-printf "Dime el Encabezado del Articulo " ; read -r ENCABEZADO
+printf "Intruduce TAGS separadas por comas ej:Shell,ssh,consola,etc >> " ; read -r tags
+printf "Dime el Encabezado del Articulo >> " ; read -r ENCABEZADO
 
 :<<-! Texto de ejemplo de inicio de Post
 ---
@@ -132,12 +132,27 @@ touch $ARCHIVO
 
 echo -e "---" >$ARCHIVO
 echo -e "layout: post" >>$ARCHIVO
-echo -e "title: $title" >>$ARCHIVO
+echo -e "title: $titulo" >>$ARCHIVO
 echo -e "tags: [$tags]" >>$ARCHIVO
 echo -e "date: $FECHA $HORA -0400" >>$ARCHIVO
 echo -e "background: ''" >>$ARCHIVO
 echo -e "---" >>$ARCHIVO
-echo -e "     "
+echo -e "     " >>$ARCHIVO
+echo -e "     " >>$ARCHIVO
+echo -e "     " >>$ARCHIVO
 echo -e "# $ENCABEZADO" >>$ARCHIVO
+echo -e "     " >>$ARCHIVO
+echo -e "  -- BORRA ESTO HE INTRODUCE DESDE AQUI EL TEXTO DEL BLOG   " >>$ARCHIVO
+echo -e "     " >>$ARCHIVO
+echo -e "     " >>$ARCHIVO
+echo -e "     " >>$ARCHIVO
+echo -e "     " >>$ARCHIVO
+echo -e "     " >>$ARCHIVO
+echo -e "____" >>$ARCHIVO
+echo -e "### AUTORIA Y MERITOS" >>$ARCHIVO
+echo -e "     " >>$ARCHIVO
+echo -e "Extraido de [-NOMBRE DEL BLOG O WEB-](https://)" >>$ARCHIVO
+echo -e "Autor del Texto Original [-NOMBRE DEL AUTOR ORIGINAL](https:/)" >>$ARCHIVO
+
 
 _select_editor

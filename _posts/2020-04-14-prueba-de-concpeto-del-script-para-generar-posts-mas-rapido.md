@@ -1,8 +1,23 @@
 ---
 layout: post
-title: 2020-04-14-prueba-de-concpeto-del-script-para-generar-posts-mas-rapido.md
-tags: [Script,shell,nano,post]
-date: 2020-04-14 17:09 -0400
+title: prueba-de-concpeto-del-script-para-generar-posts-mas-rapido
+tags: [prueba,script,post,blog,github,rapido]
+date: 2020-04-14 17:20 -0400
 background: ''
 ---
-# SCRIPT
+     
+     
+     
+# ENCABEZADO SCRIPT
+     
+  -- BORRA ESTO HE INTRODUCE DESDE AQUI EL TEXTO DEL BLOG   
+     
+     
+     
+     
+     
+____
+### AUTORIA Y MERITOS
+     
+Extraido de [-NOMBRE DEL BLOG O WEB-](https://)
+Autor del Texto Original [-NOMBRE DEL AUTOR ORIGINAL](https:/)
