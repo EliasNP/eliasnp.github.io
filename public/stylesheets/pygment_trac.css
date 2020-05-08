@@ -5,10 +5,10 @@ pre {
 
 code {
   padding: .25em .5em;
-  font-size: 85%;
-  color: green;
-  background-color: black;
-  border-radius: 2px;
+  font-size: 110%;
+  color: #00cc00;
+  background-color: #000;
+  border-radius: 0px;
 }
 
 pre {
