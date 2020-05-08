@@ -1,24 +1,26 @@
-#---
+---
 layout: post
 title: Controlar Movil desde el PC
 tags: [Movil,Scrcpy,Pc,Gnu,Linux,Android,adb,wifi,usb]
 date: 2020-05-08 11:49 -0400
 background: ''
-#---
+---
 
 # Usando el Movil desde el Pc (Gnu/Linux)
 
-En este Post le vamos a echar un vistazo a +**Scrcpy**, el cual lo siento por el articulo que me llevo a descubrirlo pero realmente esto fue hace meses y no recuerdo quien fue.
+En este Post le vamos a echar un vistazo a **Scrcpy**, el cual lo siento por el articulo que me llevo a descubrirlo pero realmente esto fue hace meses y no recuerdo quien fue.
 
-Lo tenia abandonado ya que la idea original era conectar mi movil al portatil por WI-FI ya que uso en mi escritorio un cargador inalambrico y solo consegui que funcionase por USB y esto no era realente lo que yo queria, por falta de tiempo me atasque.
+Lo tenia abandonado ya que la idea original era conectar mi movil al portatil por WI-FI por el uso del cargador inalambrico, solo consegui que funcionase por USB y esto no era realente lo que yo queria, así por falta de tiempo me atasque.
 
-Gracias a [@Inaki_Pinto](https://twitter.com/Inaki_Pinto) por un Twiit suyo que vi por casualidad retome el proyecto y a sus consejos hora si que funciona perfectamente.
+Gracias a [@Inaki_Pinto](https://twitter.com/Inaki_Pinto) por un Twiit suyo, que vi por casualidad retome el proyecto y a gracias a sus consejos, hora si que funciona perfectamente.
 
->Nota:Una vez más gracias la genial comunidad que hay entre usuarios consigo que un proyecto finalice.
+>Nota: Una vez más gracias la genial comunidad que hay entre usuarios, consigo que un proyecto finalice una vez más.
 
 ![](https://pbs.twimg.com/media/EXfEBJ6XYAACI9i?format=jpg&name=medium)
 
 Venga al Turrón que me lío hablando.
+
+---
 
 ## ¿Que es Scrcpy?
 
