@@ -2,7 +2,7 @@
 
 # remove excerpt from blog page
 # make it look compact (shows only title and date)
-compact: true
+compact: false
 
 # show posts navs
 show_post_navs: true
@@ -20,4 +20,4 @@ show-scroll: false
 
 # easily change background color
 # dark colors looks better with current font colors
-bg: "#330033"
+bg: "#660066"

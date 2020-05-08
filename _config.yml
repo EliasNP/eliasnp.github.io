@@ -17,11 +17,11 @@ email:
 # disqus comment
 #disqus:
 #    shortname: "eliasnp.github.io" #your disqus comment short name
-disqus: eliasnp.github.io
+disqus:eliasnp.github.io
 
 # google analytics
 google:
-    tracking-id: "UA-162933792-1" #your tracking id here
+    tracking-id:"UA-162933792-1" #your tracking id here
 
 gems:
   - jekyll-sitemap
