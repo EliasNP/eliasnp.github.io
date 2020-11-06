@@ -1,22 +1,131 @@
 text: |
- 
 
- # Sobre mi
- 
- + BASH where there is a shell, there is a way
- + There are 10 types of people in this world, those who understand binary and those who don't 🐧01
+# CV
 
- ## Más Información
+## ELÍAS NIEVA PRIETO
+
+Fecha de nacimiento: 23 de noviembre de 1979 • Nacionalidad: Español • D.N.I: 07247232R •
+Estado Civil: Soltero
+c\Oriola no2, puerta 6, 03560, Campello (el), Alicante • +34673559252 • eliasnieva@gmail.com
+
+## RESUMEN PROFESIONAL
+
+Administrador de sistemas ingenioso y con capacidad para abordar una gran variedad de desafíos con un
+enfoque centrado y creativo. Altamente efectivo en la resolución de problemas y toma de decisiones. [16] años
+de experiencia en TI.
+
+## *FORMACIÓN
+#
+Tecnología informática/Tecnología de sistemas info: Licenciatura en Administración de Sistemas
+University of Wisconsin-Madison - Madison Wisconsin, E.E.U.U
+
+## HISTORIAL LABORAL
+
+### Administrador de Sistemas
+
+1. C.T.Bell s.l.u - Benidorm, Alicante
+   07/2018 - Actual
+
+  - Actualización de sistemas y control de averías en hardware o software.
+  - Creación, actualización de Scripts (Bash, Python).
+  - Mantenimiento y gestión Servidores Gnu/Linux (RHEL,Centos,Debian)
+  - Realización de copias de seguridad (Servidores y Nas).
+  - Realización de tareas rutinarias de mantenimiento en Servidores .
+  - Planificación y respuesta a interrupciones del servicio y problemas.
+  - Creación de políticas de seguridad.
+  - Creación y mantenimiento de Nodos Virtuales (ProxMox, VmManager)
+  - Control y gestión de sistemas de acceso para usuarios (Radius)
+  - Implementó, desarrolló y realizó pruebas de la instalación y actualización de los servidores de ficheros ,Bases de datos(MySql, MarianaDb), servidores de impresión y servidores de aplicación en todos los departamentos.
+  - Proyectos de desarrollo de nuevas aplicaciones para VoIP (Asterisk)
+  - Gestión, Montaje y Mantenimiento de Pbx e infraestructura ( Asterisk + Centos )
+  - Administrador de sistemas y Redes
+
+2. Sandos New Technologies s.l. - Benidorm, Alicante
+    11/2015 - 01/2018
+
+  - Actualización de sistemas y control de averías en hardware o software.
+  - Creación, actualización de Scripts (Bash, Python).
+  - Mantenimiento y gestión Servidores Microsoft Windows Server
+  - Realización de copias de seguridad (Servidores y Nas).
+  - Realización de tareas rutinarias de mantenimiento en Servidores .
+  - Planificación y respuesta a interrupciones del servicio y problemas.
+  - Creación de políticas de seguridad.
+  - Creación y mantenimiento de Nodos Virtuales (HYPER-V)
+  - Implementó, desarrolló y realizó pruebas de la instalación y actualización de los servidores de ficheros y servidores de aplicación en todos los departamentos.
+  - Proyectos e implementación de infraestructura de redes
+  - Responsable de seguridad (cortafuegos, antivirus...) de bases de datos y redes.
+  - Implantación de dominios, soporte y recepción de incidencias.
+  - Competencias avanzadas de desarrollo web y de intranets. (Css, HTML, Php,Json)
+  - Creación y administración de bases de datos MySQL.Propietario
+
+3. Campello Home Service s.l. - Campello (El), Alicante
+     02/2005 - 11/2015
+
+  - Implementó, desarrolló y realizó pruebas de la instalación y actualización de los servidores de ficheros y servidores de aplicación en todos los Clientes.
+  - Actualización de sistemas y control de averías en hardware o software.
+  - Mantenimiento y gestión Servidores Microsoft Windows Server y Gnu/Linux
+  - Realización de copias de seguridad (Servidores y Nas).
+  - Realización de tareas rutinarias de mantenimiento en Servidores y Equipos de los clientes .
+  - Planificación y respuesta a interrupciones del servicio y problemas.
+  - Creación de políticas de seguridad.
+  - Implantación de dominios, soporte y recepción de incidencias.
+  - Creación y administración de bases de datos MySQL.
+  - Motorización del funcionamiento de los sistemas y comandos de entrada para resolver problemas.
+  - Capacidad para procesar gran cantidad de solicitudes de asistencia técnica en multitud de incidencias técnicas.
+  - Responsable de velar por el buen funcionamiento de los equipos y periféricos.
+
+## APTITUDES
+
+- Manejo experto de sistemas de backup y recuperación de datos
+- Capaz de trabajar tanto a solas como en equipo
+- Dominio del software para administración de sistemas, en sistemas operativos diversos
+  - Windows Server, (MCSE,Server Infrastructure)
+  - GNU/Linux, RHEL,CentOs,Debian,Ubuntu,
+- Competente en lenguajes de programación
+  	- (Python, Bash Scripting, Php)
+- Aptitudes para la planificación
+- Conocimientos de gestión de servidores de correo electrónico (Postfix), WEB (Apache2), DNS (Bind), FTP (ProFTPD) y de Bases de Datos (MySQL)
+- Sólidos conocimientos sobre hardware, para reparación de averías corrientes
+- Telefonia IP (Asterisk, WebRtc )
+- Sistemas de Virtualizacion (Hyper-V, VmWare, Proxmox)
+- Buen dominio del Ingles oral y escrito
+- Capacidad para trabajar bajo presión
+- Excelente capacidad de gestión del tiempo y priorización de tareas
+- Administración y desarrollo de redes
+- Planificación de infraestructuras
+
+## INFORMACIÓN ADICIONAL
+
+- Conocimientos en sistemas Git y Docker
+- Aprendiendo Alemán (Nivel Básico)
+- Aficionado al Ajedrez y a la lectura
+- Extremadamente Extrovertido
+- Obstinado en la resolución de problemas.
+
+## IDIOMAS
+
+- Español: Idioma nativo
+- Inglés: Intermedio avanzado B2
+- Alemán: Principiante
+
+------
+
+# Sobre mi
+
+- BASH where there is a shell, there is a way
+- There are 10 types of people in this world, those who understand binary and those who don't 🐧01
+
+## Más Información
 
  Hola Soy Elías Nieva Prieto ([Eli@sNП](https://github.com/EliasNP) - 🐧 01)
- 
- Paso de Repetirme, buscame en [Mastodon](https://mastodon.social/@EliasNieva),[Twitter](https://twitter.com/EliasNieva),[Telegram](http://t.me/EliasNieva) o incluso en [GitHub](https://github.com/EliasNP).
+
+ Paso de Repetirme, buscame en [Mastodon](https://mastodon.social/@EliasNieva),[Twitter](https://twitter.com/EliasNieva),[Telegram](http://t.me/EliasNieva) o incluso en [GitHub](https://github.com/EliasNP)
  Tambien mandame un mail y pregunta.
 
- ## Contactame
+## Contactame
 
- - [Telegram](http://t.me/EliasNieva)
- - [Twitter](https://twitter.com/EliasNieva)
- - [Mastodon](https://mastodon.social/@EliasNieva)
- - [GitHub](https://github.com/EliasNP)
- - [Mail](mailto:eliasnieva@keemail.me)
+- [Telegram](http://t.me/EliasNieva)
+- [Twitter](https://twitter.com/EliasNieva)
+- [Mastodon](https://mastodon.social/@EliasNieva)
+- [GitHub](https://github.com/EliasNP)
+- [Mail](mailto:eliasnieva@gmail.com)
