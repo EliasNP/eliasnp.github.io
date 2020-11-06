@@ -1,5 +1,7 @@
-text: 
-
+text: |
+ 
+  ![Logo]({{ site.baseurl }}/images/avatar2.png)
+  
 # CV
 
 ## ELÍAS NIEVA PRIETO
