@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Linux: Reemplazar texto en archivos con sed
+title: Linux Reemplazar texto en archivos con sed
 tags: [sed,linux,comandos,archivos,buscar,find,texto]
 date: 2020-04-16 09:38 -0400
 background: ''
