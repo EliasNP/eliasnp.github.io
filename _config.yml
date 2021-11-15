@@ -5,14 +5,14 @@ paginate: 5 #articles per page
 paginate_path: /blog/page:num #makes pagination working
 
 # header text
-title: Blog de Eli@sNП  - 🐧01
+title: Blog de Elías Nieva Prieto  - 🐧01
 header: BASH where there is a shell, there is a way
 
 # for welcome page
 # to replace image go to index.html
 email:
-  address: "eliasnieva@gmail.com"
-  text: "eliasnieva (at) gmail.com"
+  address: "eliasnieva@gnulinux4all.com"
+  text: "eliasnieva (at) gnulinux4all.com"
 
 # disqus comment
 #disqus:
