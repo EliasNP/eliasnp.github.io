@@ -1,8 +1,5 @@
 text: |
  
- #  ![Logo]({{ site.baseurl }}/images/avatar2.png)
- ![Logo]({{ site.baseurl }}/images/avatar2.png)
-
  - BASH where there is a shell, there is a way
  - There are 10 types of people in this world, those who understand binary and those who don't 🐧01
 
@@ -20,4 +17,4 @@ text: |
  - [GitHub](https://github.com/EliasNP)
  - [Mail](mailto:eliasnieva@keemail.me)
 
-  ![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux&logoColor=white)](https://www.gnulinux4all.com/ "Go to Linux 4 All Proyect")
+  [![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux&logoColor=white)](https://www.gnulinux4all.com/ "Go to Linux 4 All Proyect")
