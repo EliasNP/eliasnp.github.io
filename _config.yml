@@ -17,7 +17,7 @@ email:
 # disqus comment
 #disqus:
 #    shortname: "eliasnp.github.io" #your disqus comment short name
-disqus: eliasnp.github.io
+#disqus: eliasnp-github-io
 
 # google analytics
 google:
