@@ -1,7 +1,6 @@
 text: |
  
-#  ![Logo]({{site.baseurl}}/images/avatar2.png)
-   ![Logo]({{ site.baseurl }}/images/avatar2.png)
+ #  ![Logo]({{ site.baseurl }}/images/avatar2.png)
 
  - BASH where there is a shell, there is a way
  - There are 10 types of people in this world, those who understand binary and those who don't 🐧01
